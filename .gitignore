@@ -1,0 +1,13 @@
+/.vscode
+/build-sqldrivers
+/classes.py
+/data.csv
+/example.go
+/exceptions.py
+/import mysql.connector.py
+/pan.py
+/proyect1
+/prueba.py
+/python.code-workspace
+/Untitled-1.py
+/__pycache__
