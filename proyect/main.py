@@ -322,7 +322,7 @@ def viewProds():
     
     Quitbtn = Button(wn, text="Quit", bg='yellow', fg='black', command=wn.destroy)
     Quitbtn.place(relx=0.5, rely=0.8, relwidth=.18, relheight=.1)
-    
+    #pablo
     
     wn.mainloop()
     
@@ -469,5 +469,5 @@ btn5 = Button(wn,text="EXIT",bg='lavender blush2', fg='black', width=20,height=2
 btn5['font'] = font.Font( size=12)
 btn5.place(x=270,y=550)
 
-
+# pablo
 wn.mainloop() 
